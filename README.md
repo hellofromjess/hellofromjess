@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hellofromjess
+- 👀 I’m interested in ... Data analytics, spatial analytics, and data visualization ... and also indie music 
+- 🌱 I’m a knower of ... SQL, Python, and visualization things
+- 📫 How to reach me ... jess@hellofromjess.com
